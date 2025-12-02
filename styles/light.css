@@ -9,11 +9,11 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
-    --accent-color: white;
-    --light-border-color: #353430;
-    --dark-border-color: transparent;
+    --accent-color: lightpink;
+    --light-border-color: transparent;
+    --dark-border-color: #353430;
     --background-color: #ff8dcb;
-    --border-hover: #353430;
+    --border-hover: #32312D66;
     --section-title-color: #353430;
     --title-color: #ffc2e6;
     --p-color: #353430;
@@ -22,13 +22,13 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-        --accent-color: white;
-        --light-border-color: #353430;
-        --dark-border-color: transparent;
+        --accent-color: lightpink;
+        --light-border-color: transparent;
+        --dark-border-color: #353430;
         --background-color: #ff8dcb;
         --section-title-color: #353430;
         --title-color: #ffc2e6;
-        --border-hover: #353430;
+        --border-hover: #32312D66;
         --p-color: #353430;
         --background-image: url(../images/cover-image-light.png);
     }
