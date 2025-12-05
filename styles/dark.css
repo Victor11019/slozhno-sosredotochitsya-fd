@@ -11,12 +11,13 @@
   */
     --accent-color: darkblue;
     --background-color: #ff0070;
-    --border-hover: #ff007066;
+    --outline-hover-color: #ff007066;
     --subtitle-color: #000028;
     --title-color: #db00ff;
     --p-color: #f1b2ce;
     --dark-border-color: #ff0070;
     --light-border-color: #ff0070;
     --section-title-color: #ff0070;
+    --footer-shadow-color: transparent;
     --background-image: url(../images/cover-image-dark.png);
 }

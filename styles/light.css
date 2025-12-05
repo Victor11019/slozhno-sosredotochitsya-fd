@@ -13,10 +13,12 @@
     --light-border-color: transparent;
     --dark-border-color: #353430;
     --background-color: #ff8dcb;
-    --border-hover: #32312D66;
+    --outline-hover-color: #32312D66;
     --section-title-color: #353430;
+    --subtitle-color: #353430;
     --title-color: #ffc2e6;
     --p-color: #353430;
+    --footer-shadow-color: #FF8DCB; 
     --background-image: url(../images/cover-image-light.png);
 }
 
@@ -28,8 +30,10 @@
         --background-color: #ff8dcb;
         --section-title-color: #353430;
         --title-color: #ffc2e6;
-        --border-hover: #32312D66;
+        --subtitle-color: #353430;
+        --outline-hover-color: #32312D66;
         --p-color: #353430;
+        --footer-shadow-color: #FF8DCB;
         --background-image: url(../images/cover-image-light.png);
     }
 }

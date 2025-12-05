@@ -5,17 +5,18 @@
 :root {
     --accent-color: darkblue;
     --background-color: #ff0070;
-    --border-hover: #FF007066;
+    --outline-hover-color: #FF007066;
     --subtitle-color: #000028;
     --title-color: #db00ff;
     --p-color: #f1b2ce;
     --section-title-color: #ff0070;
     --light-border-color: #ff0070;
     --dark-border-color: #ff0070;
+    --footer-shadow-color: transparent;
     --font-size: 18px;
     --font-weight-big: 700;
     --font-weight-small: 400;
-    --font-style-b: bold;
-    --font-style-n: normal;
+    --font-style-bold: bold;
+    --font-style-normal: normal;
     --background-image: url(../images/cover-image-dark.png);
 }
